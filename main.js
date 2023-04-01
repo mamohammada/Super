@@ -1,8 +1,8 @@
 var typed = new Typed(".multiple-text",{
   strings:[
-    "Ik ben37 jaar oud.",
-    "In mijn leven"," heb ik verschillende ","passies ontdekt",
-    "die me hebben geholpen"," om mezelf te ontwikkelen"," en nieuwe"," uitdagingen aan"," te gaan.",
+
+    
+    " uitdagingen aan"," te gaan.",
     "Een van mijn grootste"," passies is tekenen.","Al van jongs af"," aan houd ik van tekenen en"," schilderen,",
     "en ik heb de afgelopen"," jaren veel tijd en energie"," gestoken in het ontwikkelen"," van mijn vaardigheden.",
     "Ik vind het heerlijk om ","mijn creativiteit de vrije ","loop te laten en"," nieuwe technieken te leren."
